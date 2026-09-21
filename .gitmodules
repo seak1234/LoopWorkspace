@@ -26,7 +26,7 @@
 	url = https://github.com/LoopKit/TrueTime.swift.git
 [submodule "LoopOnboarding"]
 	path = LoopOnboarding
-	url = https://github.com/LoopKit/LoopOnboarding.git
+	url = https://github.com/seak1234/LoopOnboarding.git
 [submodule "AmplitudeService"]
 	path = AmplitudeService
 	url = https://github.com/LoopKit/AmplitudeService.git
