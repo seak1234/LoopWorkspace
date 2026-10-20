@@ -8,7 +8,8 @@
 	branch = mods
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
-	url = https://github.com/LoopKit/CGMBLEKit.git
+	url = https://github.com/seak1234/CGMBLEKit.git
+	branch = mods
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
 	url = https://github.com/LoopKit/dexcom-share-client-swift.git
@@ -41,7 +42,8 @@
 	url = https://github.com/LoopKit/LoopSupport
 [submodule "G7SensorKit"]
 	path = G7SensorKit
-	url = https://github.com/LoopKit/G7SensorKit.git
+	url = https://github.com/seak1234/G7SensorKit.git
+	branch = mods
 [submodule "TidepoolService"]
 	path = TidepoolService
 	url = https://github.com/LoopKit/TidepoolService.git
